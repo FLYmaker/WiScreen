@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+<string name="Pause">暂停</string>
+<string name="continue">继续</string>    
+<string name="Stop">停止</string>   
+<string name="Z offset:">Z偏移:</string>    
+<string name="Scaling">缩放</string>   
+ 
+<string name="temp/move">温度/轴移动</string>    
+<string name="Tool">工具</string>    
+<string name="Print Speed">打印速度</string>           
+<string name="Berserk">狂暴</string>       
+<string name="Sport">运动</string>    
+<string name="Normal">标准</string>    
+<string name="Quiet">安静</string>    
+      
+    
+<string name="off">关</string>    
+<string name="on">开</string>    
+<string name="model">模型</string>     
+<string name="Calibration >">校准 ></string>     
+<string name="Calibration">校准</string> 
+<string name="Calibrate nozzle heating">校准喷嘴加热</string>    
+<string name="Calibrate bed heating">校准热床加热</string>    
+<string name="Calibrate resonance frequency">校准共振频率</string>     
+<string name="Calibrate bed leveling grid">校准热床网格调平</string>     
+<string name="Calibrate multi-Z bed leveling">校准热床多Z调平</string>    
+<string name="Each calibration is saved individually">每一项校准单独保存</string>        
+<string name="Start Calibration">开始校准</string>       
+     
+<string name="Calibration Items">校准项目</string>    
+<string name="Error Log">错误日志</string>    
+<string name="Cancel Calibration">取消校准</string>    
+      
+<string name="During calibration">校准时可能发生错误，导致之前项校准数据丢失，建议开启此选项。开启后klipper会重启多次></string>     
+     
+<string name="Refresh">刷新</string>    
+<string name="U desk">U盘</string>    
+
+<string name="Back">返回</string>             
+<string name="Print">打印</string>     
+      
+<string name="sync to subordinate">同步至从机</string>           
+<string name="sync to subordinate Printting">同步至从机并打印</string> 
+   
+<string name="close the window">关闭窗口</string>     
+   
+<string name="Start scan">开始扫描</string>      
+<string name="Scan for all">扫描当前局域网下所有打印机设备</string>      
+      
+<string name="Connect">连接</string>      
+<string name="Console">控制台</string>      
+<string name="master">主机</string>      
+<string name="slave">从机</string>  
+<string name="Set">设置</string>   
+     
+<string name="Select all">全选</string>   
+   
+<string name="name">名字</string>      
+<string name="picture">图片</string>      
+<string name="ip addr">IP地址</string>      
+<string name="delete">删除</string>      
+<string name="close">关闭</string>     
+
+<string name="Home">归位</string>     
+<string name="off motor">关闭电机</string>     
+
+<string name="1Servo">1舵机</string>     
+<string name="2Conveyor trolley">2滑车</string>     
+<string name="3Extruder">3挤出机</string>    
+<string name="4Encode">4编码器</string>    
+<string name="5Feed Tube">5送料管长度</string>  
+
+<string name="Cencal">取消</string>  
+<string name="Confirm">确认</string>  
+
+<string name="Restart">重启</string>  
+<string name="Validate">验证</string>  
+
+
+<string name="servo1">增加或者减小舵机角度，使其达到如图所示位置</string>  
+<string name="servo2">角度校准完成后手动修改配置文件</string>  
+
+<string name="tool1">1如图所示将 滑块口 对准 需要校准的口</string>  
+<string name="tool2">2点击方对应口需要校准的工具头编号</string>  
+<string name="tool3">3所有工具头校准完成后，自动保存，无需手动保存</string>  
+
+<string name="ex1">如图所示插入一根耗材，不要超过箭头，和出口齐平</string>  
+
+<string name="extrusion length">挤出长度</string>  
+<string name="actual extrusion length">实际挤出长度</string>  
+
+<string name="sensor1">如图所示插入一根耗材，来回拔插，如果下面数值发生变化，则说明编码器正常</string>  
+<string name="sensor2">如图所示从 后方 插入一根 较长 耗材,点击下发按钮，挤出机会有挤出抽回动作，停止后自动校准完成</string>  
+
+<string name="Automatic Encoder Calibration">自动校准编码器</string>  
+
+<string name="bowden1">1如图所示从 后方 插入耗材，大概在出口位置</string>  
+<string name="bowden2">2确保图片所示出口，到喷嘴挤出机之间使用 铁氟龙管连接好</string>  
+<string name="bowden3">3点击下发按钮填写大概校准距离，只能比实际长不能短，确认后机器将会自动校准</string>  
+
+<string name="Hibernate">休眠</string>  
+<string name="Language">语言</string>  
+<string name="Buzzer">蜂鸣器</string>  
+<string name="Version">版本</string>  
+<string name="Brightness">亮度</string>  
+<string name="print name">机器名称</string>  
+<string name="power-on password">开机密码</string> 
+
+<string name="time0">时间: 从不</string>  
+<string name="time1">时间: 10S</string>  
+<string name="time2">时间: 30S</string>  
+<string name="time3">时间: 60S</string>  
+<string name="time4">时间: 2分钟</string>  
+<string name="time5">时间: 5分钟</string>  
+<string name="time6">时间: 30分钟</string>  
+<string name="time7">时间: 1小时</string>  
+
+
+<string name="plase home">请先归位电机</string>  
+<string name="plase heat">请加热喷嘴</string>  
+<string name="home failed">请先归位电机</string>  
+<string name="triggered prematurely">探针还未探测就触发了</string>  
+<string name="still triggered">限位一直在被触发</string>  
+<string name="no triggered">限位/探针没有触发</string>  
+<string name="define fan1">您未定义风扇1</string>  
+<string name="define fan2">您未定义风扇2</string>  
+<string name="move out">移动超范围了</string>  
+<string name="ip add failed">ip添加失败，请确认该打印机在线</string>  
+<string name="plase Install udesk">请插入u盘</string>  
+<string name="plase Install sdcard">请插入sd卡</string>  
+<string name="plase Install udesk/sdcard">请插入u盘/sd卡</string>  
+<string name="Please create img directory and add pictures">请创建img目录并添加图片</string> 
+<string name="A USB disk must be installed to use this function">使用此功能必须安装u盘/sd卡</string>  
+<string name="define led">您未定义led</string> 
+<string name="Please connect the print">您未连接打印机</string> 
+<string name="Restarting, please wait">重启中:请稍后.....</string> 
+<string name="Confirm switch to tool0">确认切换到工具0</string> 
+<string name="Confirm switch to tool1">确认切换到工具1</string> 
+<string name="Confirm switch to tool2">确认切换到工具2</string> 
+<string name="Confirm switch to tool3">确认切换到工具3</string> 
+<string name="Confirm switch to tool4">确认切换到工具4</string> 
+<string name="Confirm switch to tool5">确认切换到工具5</string> 
+<string name="Confirm switch to tool6">确认切换到工具6</string> 
+<string name="Confirm switch to tool7">确认切换到工具7</string> 
+<string name="Confirm switch to tool8">确认切换到工具8</string> 
+<string name="Confirm switch to tool9">确认切换到工具9</string> 
+<string name="Confirm switch to tool10">确认切换到工具10</string> 
+<string name="Confirm switch to tool11">确认切换到工具11</string> 
+<string name="Confirm switch to tool12">确认切换到工具12</string> 
+<string name="Confirm switch to tool13">确认切换到工具13</string> 
+<string name="Confirm switch to tool14">确认切换到工具14</string> 
+<string name="Confirm switch to tool15">确认切换到工具15</string> 
+<string name="Confirm switch to tool16">确认切换到工具16</string> 
+<string name="Confirm switch to tool17">确认切换到工具17</string> 
+
+<string name="Confirm test tool0">确认测试工具0</string> 
+<string name="Confirm test tool1">确认测试工具1</string> 
+<string name="Confirm test tool2">确认测试工具2</string> 
+<string name="Confirm test tool3">确认测试工具3</string> 
+<string name="Confirm test tool4">确认测试工具4</string> 
+<string name="Confirm test tool5">确认测试工具5</string> 
+<string name="Confirm test tool6">确认测试工具6</string> 
+<string name="Confirm test tool7">确认测试工具7</string> 
+<string name="Confirm test tool8">确认测试工具8</string> 
+<string name="Confirm test tool9">确认测试工具9</string> 
+<string name="Confirm test tool10">确认测试工具10</string> 
+<string name="Confirm test tool11">确认测试工具11</string> 
+<string name="Confirm test tool12">确认测试工具12</string> 
+<string name="Confirm test tool13">确认测试工具13</string> 
+<string name="Confirm test tool14">确认测试工具14</string> 
+<string name="Confirm test tool15">确认测试工具15</string> 
+<string name="Confirm test tool16">确认测试工具16</string> 
+<string name="Confirm test tool17">确认测试工具17</string> 
+
+<string name="Confirm calibration tool0">确认校准工具0</string> 
+<string name="Confirm calibration tool1">确认校准工具1</string> 
+<string name="Confirm calibration tool2">确认校准工具2</string> 
+<string name="Confirm calibration tool3">确认校准工具3</string> 
+<string name="Confirm calibration tool4">确认校准工具4</string> 
+<string name="Confirm calibration tool5">确认校准工具5</string> 
+<string name="Confirm calibration tool6">确认校准工具6</string> 
+<string name="Confirm calibration tool7">确认校准工具7</string> 
+<string name="Confirm calibration tool8">确认校准工具8</string> 
+<string name="Confirm calibration tool9">确认校准工具9</string> 
+<string name="Confirm calibration tool10">确认校准工具10</string> 
+<string name="Confirm calibration tool11">确认校准工具11</string> 
+<string name="Confirm calibration tool12">确认校准工具12</string> 
+<string name="Confirm calibration tool13">确认校准工具13</string> 
+<string name="Confirm calibration tool14">确认校准工具14</string> 
+<string name="Confirm calibration tool15">确认校准工具15</string> 
+<string name="Confirm calibration tool16">确认校准工具16</string> 
+<string name="Confirm calibration tool17">确认校准工具17</string> 
+
+<string name="Confirm picture?">确认图片?</string> 
+
+<string name="Confirm load images?">确认加载图片?</string> 
+
+<string name="Confirm to cancel printing?">确认取消打印?</string> 
+
+<string name="Confirm to cancel the current model?">确认取消当前模型?</string> 
+
+<string name="wifi name">名称:</string> 
+<string name="wifi password">密码:</string> 
+<string name="wifi Encryption">加密方式:</string> 
+<string name="show password">显示密码</string> 
+<string name="auto connect">自动连接</string> 
+<string name="connect">连接</string> 
+<string name="Connection Status">连接状态</string> 
+<string name="connected">已连接</string> 
+<string name="Disconnect">断开连接</string> 
+<string name="Forget">忘记</string> 
+<string name="Preheat">预热</string> 
+<string name="Del">删除</string> 
+<string name="reverse">反转</string> 
+<string name="Calibration_term">您未设置校准选项</string> 
+<string name="Clear Password,Click to Confirm">清空密码 请点击确认</string> 
+<string name="Verify Password">验证密码</string> 
+<string name="Enter New Password">输入新密码</string> 
+<string name="Password Verification Error">密码验证错误</string> 
+<string name="Incorrect Password Entered">密码输入错误</string> 
+
+<string name="Confirm file deletion?">确认删除文件？</string> 
+
+<string name="Chinese">中文</string> 
+<string name="English">英文</string> 
+
+<string name="Never">从不</string> 
+<string name="10S">10S</string> 
+<string name="30S">30S</string> 
+<string name="1minute">1minute</string> 
+<string name="2minute">2minute</string> 
+<string name="5minute">5minute</string> 
+<string name="30minute">30minute</string> 
+<string name="1hour">1hour</string> 
+
+<string name="Password: *****">密码: *****</string> 
+<string name="Please add gcode">请添加Gcode</string> 
+<string name="Edit">编辑</string> 
+
+<string name="Custom Button Dropdown Menu">自定义下拉栏按钮</string> 
+
+<string name="Bed Mesh">查看热床补偿</string> 
+<string name="Open Cam">打开摄像头</string> 
+
+<string name="Auto-stored the Z offset">自动保存了Z偏移，系统将会重启，请稍后</string> 
+<string name="GPIO has already been selected!">GPIO已经被选择了!</string> 
+<string name="Forc_move">强制移动</string> 
+<string name="Unbound GPIO">未绑定GPIO</string> 
+<string name="PE8">PE8</string> 
+<string name="PE10">PE10</string> 
+<string name="PG8">PG8</string> 
+<string name="PG9">PG9</string> 
+<string name="PG10">PG10</string> 
+<string name="PG11">PG11</string> 
+
+<string name="Request speed">请求速度</string> 
+<string name="Move speed">移动速度</string> 
+<string name="Extrusion flow">挤出流量</string> 
+<string name="Pressure compensation">压力补偿</string> 
+<string name="Smoothing time">平滑时间</string> 
+<string name="Maximum speed">最大速度</string> 
+<string name="Cornering speed">转角速度</string> 
+<string name="Acceleration">加速度</string> 
+
+<string name="Pin">引脚</string> 
+<string name="Unable to connect">MCU未连接，请您点击重启，并下载日志查看问题.</string> 
+<string name="printok?">打印完成确认返回？</string> 
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

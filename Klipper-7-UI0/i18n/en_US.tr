@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+<string name="Pause">Pause</string>
+<string name="continue">continue</string>    
+<string name="Stop">Stop</string>   
+<string name="Z offset:">Z offset:</string>    
+<string name="Scaling">Scaling</string>    
+<string name="temp/move">Temp/Move</string>    
+<string name="Tool">Tool</string>    
+<string name="Print Speed">Print Speed</string>           
+<string name="Berserk">Berserk</string>       
+<string name="Sport">Sport</string>    
+<string name="Normal">Normal</string>    
+<string name="Quiet">Quiet</string>    
+      
+    
+<string name="off">off</string>    
+<string name="on">on</string>    
+<string name="model">model</string>     
+<string name="Calibration >">Calibration ></string>     
+<string name="Calibration">Calibration</string>     
+
+<string name="Calibrate nozzle heating">Calibrate nozzle heating</string>    
+<string name="Calibrate bed heating">Calibrate bed heating</string>    
+<string name="Calibrate resonance frequency">Calibrate resonance frequency</string>     
+<string name="Calibrate bed leveling grid">Calibrate bed leveling grid</string>     
+<string name="Calibrate multi-Z bed leveling">Calibrate multi-Z bed leveling</string>    
+<string name="Each calibration is saved individually">Each calibration is saved individually</string>        
+<string name="Start Calibration">Start Calibration</string>       
+     
+<string name="Calibration Items">Calibration Items</string>    
+<string name="Error Log">Error Log</string>    
+<string name="Cancel Calibration">Cancel Calibration</string>    
+      
+     
+<string name="During calibration">During calibration, errors may occur which could result in the loss of previously calibrated data. It is recommended to enable this option. When enabled, Klipper will restart multiple times throughout the process.></string>     
+     
+<string name="Refresh">Refresh</string>    
+<string name="U desk">U desk</string>    
+
+<string name="Back">Back</string>             
+<string name="Print">Print</string>     
+      
+<string name="sync to subordinate">sync to subordinate  </string>           
+<string name="sync to subordinate Printting">sync to subordinate Printting</string> 
+   
+<string name="close the window">close the window</string>     
+   
+<string name="Start scan">Start Scan</string>      
+<string name="Scan for all">Scan for all printer devices on the current local network</string>      
+      
+<string name="Connect">Connect</string>      
+<string name="Console">Console</string>      
+<string name="master">Master</string>      
+<string name="slave">Slave</string>      
+<string name="Set">Set</string>     
+<string name="Select all">Select all</string>   
+   
+<string name="name">Name</string>      
+<string name="picture">Picture</string>      
+<string name="ip addr">Ip addr</string>      
+<string name="delete">Delete</string>      
+<string name="close">Close</string>     
+
+<string name="Home">Home</string>     
+<string name="off motor">off motor</string>     
+
+<string name="1Servo">1Servo</string>     
+<string name="2Conveyor trolley">2Conveyor trolley</string>     
+<string name="3Extruder">3Extruder</string>    
+<string name="4Encode">4Encode</string>    
+<string name="5Feed Tube">5Feed Tube</string>  
+
+<string name="Cencal">Cencal</string>  
+<string name="Confirm">Confirm</string>  
+
+<string name="Restart">Restart</string>  
+<string name="Validate">Validate</string>  
+
+
+<string name="servo1">Increase or decrease the servo angle so that it reaches the position shown in the figure.</string>  
+<string name="servo2">After completing angle calibration, manually modify the configuration file.</string>  
+
+<string name="tool1">1Align the slider opening with the calibration port as shown in the image.</string>  
+<string name="tool2">2Click on the square corresponding to the tool head number that needs calibration.</string>  
+<string name="tool3">3All tool head calibrations are automatically saved upon completion, no manual saving is required.</string>  
+
+<string name="ex1">Insert a piece of material as shown in the picture, do not exceed the arrow, making it flush with the outlet.</string>  
+
+<string name="extrusion_length">Extrusion Length</string>  
+<string name="actual_extrusion_length">Actual Extrusion Length</string>  
+
+<string name="sensor1">Insert a piece of material as shown in the image, and repeatedly insert and remove it. If the value below changes, it indicates that the encoder is functioning properly.</string>  
+<string name="sensor2">As shown in the image, insert a relatively long piece of material from the rear. Click the button below; the extruder will perform an extrusion-retract action. After it stops, automatic encoder calibration will be completed.</string>  
+
+<string name="Automatic_Encoder_Calibration">Automatic Encoder Calibration</string>  
+
+<string name="bowden1">From the rear, insert material as shown in the picture, approximately at the outlet position.</string>  
+<string name="bowden2">Ensure that between the indicated outlet and the nozzle of the extruder, there is a PTFE tube connected properly as shown in the picture.</string>  
+<string name="bowden3">Click the button below to input an approximate calibration distance, which must be longer than the actual distance, not shorter. Confirm, and the machine will automatically calibrate.</string>  
+
+<string name="Hibernate">Hibernate</string>  
+<string name="Language">Language</string>  
+<string name="Buzzer">Buzzer</string>  
+<string name="Version">Version</string>  
+<string name="Brightness">Brightness</string>  
+<string name="print name">Machine Name</string>  
+<string name="power-on password">Power-On Password</string>  
+
+<string name="time0">Time:Never</string>  
+<string name="time1">Time:10S</string>  
+<string name="time2">Time:30S</string>  
+<string name="time3">Time:60S</string>  
+<string name="time4">Time:2minutes</string>  
+<string name="time5">Time:5minutes</string>  
+<string name="time6">Time:30minutes</string>  
+<string name="time7">Time:1hour</string>
+
+<string name="plase home">Please home the motors first</string>  
+<string name="plase heat">Please heat the nozzle</string>  
+<string name="home failed">Home failed</string>  
+<string name="triggered prematurely">triggered prematurely</string>  
+<string name="still triggered">The limit switch is still being trigge</string>  
+<string name="no triggered">The limit switch/probe has not been trigg</string>  
+<string name="define fan1">Fan1 has not been defined by you</string>  
+<string name="define fan2">Fan2 has not been defined by you</string>  
+<string name="move out">Movement exceeded the range</string>  
+<string name="ip add failed">IP addition failed, please confirm printer is online</string>  
+<string name="plase Install udesk">plase Install udesk</string>  
+<string name="plase Install sdcard">plase Install sdcard</string>  
+<string name="plase Install udesk/sdcard">plase Install udesk/sdcard</string>  
+<string name="Please create img directory and add pictures">Please create img directory and add pictures</string> 
+<string name="A USB disk must be installed to use this function">A USB disk must be installed to use this function</string>  
+<string name="define led">led has not been defined by you</string> 
+<string name="Please connect the print">Please connect the print</string> 
+<string name="Restarting, please wait">Restarting, please wait.....</string> 
+<string name="Confirm switch to tool0">Confirm switch to tool0</string> 
+<string name="Confirm switch to tool1">Confirm switch to tool1</string> 
+<string name="Confirm switch to tool2">Confirm switch to tool2</string> 
+<string name="Confirm switch to tool3">Confirm switch to tool3</string> 
+<string name="Confirm switch to tool4">Confirm switch to tool4</string> 
+<string name="Confirm switch to tool5">Confirm switch to tool5</string> 
+<string name="Confirm switch to tool6">Confirm switch to tool6</string> 
+<string name="Confirm switch to tool7">Confirm switch to tool7</string> 
+<string name="Confirm switch to tool8">Confirm switch to tool8</string> 
+<string name="Confirm switch to tool9">Confirm switch to tool9</string> 
+<string name="Confirm switch to tool10">Confirm switch to tool10</string> 
+<string name="Confirm switch to tool11">Confirm switch to tool11</string> 
+<string name="Confirm switch to tool12">Confirm switch to tool12</string> 
+<string name="Confirm switch to tool13">Confirm switch to tool13</string> 
+<string name="Confirm switch to tool14">Confirm switch to tool14</string> 
+<string name="Confirm switch to tool15">Confirm switch to tool15</string> 
+<string name="Confirm switch to tool16">Confirm switch to tool16</string> 
+<string name="Confirm switch to tool17">Confirm switch to tool17</string> 
+
+<string name="Confirm test tool0">Confirm test tool0</string> 
+<string name="Confirm test tool1">Confirm test tool1</string> 
+<string name="Confirm test tool2">Confirm test tool2</string> 
+<string name="Confirm test tool3">Confirm test tool3</string> 
+<string name="Confirm test tool4">Confirm test tool4</string> 
+<string name="Confirm test tool5">Confirm test tool5</string> 
+<string name="Confirm test tool6">Confirm test tool6</string> 
+<string name="Confirm test tool7">Confirm test tool7</string> 
+<string name="Confirm test tool8">Confirm test tool8</string> 
+<string name="Confirm test tool9">Confirm test tool9</string> 
+<string name="Confirm test tool10">Confirm test tool10</string> 
+<string name="Confirm test tool11">Confirm test tool11</string> 
+<string name="Confirm test tool12">Confirm test tool12</string> 
+<string name="Confirm test tool13">Confirm test tool13</string> 
+<string name="Confirm test tool14">Confirm test tool14</string> 
+<string name="Confirm test tool15">Confirm test tool15</string> 
+<string name="Confirm test tool16">Confirm test tool16</string> 
+<string name="Confirm test tool17">Confirm test tool17</string>
+
+<string name="Confirm calibration tool0">Confirm calibration tool0</string> 
+<string name="Confirm calibration tool1">Confirm calibration tool1</string> 
+<string name="Confirm calibration tool2">Confirm calibration tool2</string> 
+<string name="Confirm calibration tool3">Confirm calibration tool3</string> 
+<string name="Confirm calibration tool4">Confirm calibration tool4</string> 
+<string name="Confirm calibration tool5">Confirm calibration tool5</string> 
+<string name="Confirm calibration tool6">Confirm calibration tool6</string> 
+<string name="Confirm calibration tool7">Confirm calibration tool7</string> 
+<string name="Confirm calibration tool8">Confirm calibration tool8</string> 
+<string name="Confirm calibration tool9">Confirm calibration tool9</string> 
+<string name="Confirm calibration tool10">Confirm calibration tool10</string> 
+<string name="Confirm calibration tool11">Confirm calibration tool11</string> 
+<string name="Confirm calibration tool12">Confirm calibration tool12</string> 
+<string name="Confirm calibration tool13">Confirm calibration tool13</string> 
+<string name="Confirm calibration tool14">Confirm calibration tool14</string> 
+<string name="Confirm calibration tool15">Confirm calibration tool15</string> 
+<string name="Confirm calibration tool16">Confirm calibration tool16</string> 
+<string name="Confirm calibration tool17">Confirm calibration tool17</string>  
+
+<string name="Confirm picture?">Confirm picture?</string> 
+
+<string name="Confirm load images?">Confirm load images?</string> 
+
+<string name="Confirm to cancel printing?">Confirm to cancel printing?</string> 
+
+<string name="Confirm to cancel the current model?">Confirm to cancel the current model?</string> 
+
+
+
+<string name="wifi name">name:</string> 
+<string name="wifi password">password:</string> 
+<string name="wifi Encryption">encryption:</string> 
+<string name="show password">show password</string> 
+<string name="auto connect">auto connect</string> 
+<string name="connect">connect</string> 
+<string name="Connection Status">Status</string> 
+<string name="connected">connected</string> 
+<string name="Disconnect">Disconnect</string> 
+<string name="Open WiFi">Open</string> 
+<string name="Forget">Forget</string> 
+<string name="Preheat">Preheat</string> 
+<string name="Del">Delete</string> 
+<string name="reverse">Reverse</string> 
+<string name="Calibration_term">You have not set the calibration option.</string> 
+<string name="Clear Password,Click to Confirm">Clear Password,Click to Confirm</string> 
+<string name="Verify Password">Verify Password</string> 
+<string name="Enter New Password">Enter New Password</string> 
+<string name="Password Verification Error">Password Verification Error</string> 
+<string name="Incorrect Password Entered">Incorrect Password Entered</string> 
+
+
+<string name="Confirm file deletion?">Confirm file deletion?</string> 
+
+
+
+<string name="Chinese">Chinese</string> 
+<string name="English">English</string> 
+
+<string name="Never">Never</string> 
+<string name="10S">10S</string> 
+<string name="30S">30S</string> 
+<string name="1minute">1minute</string> 
+<string name="2minute">2minute</string> 
+<string name="5minute">5minute</string> 
+<string name="30minute">30minute</string> 
+<string name="1hour">1hour</string> 
+
+<string name="Password: *****">Password: *****</string> 
+<string name="Please add gcode">Please add gcode</string> 
+<string name="Edit">Edit</string> 
+
+<string name="Custom Button Dropdown Menu">Custom Button</string> 
+
+<string name="Bed Mesh">Bed Mesh</string> 
+<string name="Open Cam">Open Cam</string> 
+
+<string name="Auto-stored the Z offset">Auto-stored the Z offset, system will be rebooting shortly, please wait</string> 
+<string name="GPIO has already been selected!">GPIO has already been selected!</string> 
+<string name="Forc_move">Forc_move</string> 
+<string name="Unbound GPIO">Unbound GPIO</string> 
+<string name="PE8">PE8</string> 
+<string name="PE10">PE10</string> 
+<string name="PG8">PG8</string> 
+<string name="PG9">PG9</string> 
+<string name="PG10">PG10</string> 
+<string name="PG11">PG11</string> 
+
+<string name="Request speed">Request speed</string> 
+<string name="Move speed">Move speed</string> 
+<string name="Extrusion flow">Extrusion flow</string> 
+<string name="Pressure compensation">Pressure compensation</string> 
+<string name="Smoothing time">Smoothing time</string> 
+<string name="Maximum speed">Maximum speed</string> 
+<string name="Cornering speed">Cornering speed</string> 
+<string name="Acceleration">Acceleration</string> 
+
+<string name="Pin">Pin</string> 
+<string name="Unable to connect">MCU not connected. Please click to restart and download logs to check the issue.</string> 
+<string name="printok?">Print complete, confirm to return?</string> 
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
